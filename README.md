@@ -6,4 +6,4 @@ You have lost your Thunderbird address book?
 Here is a script, which can extract all "sent-to..." email addresses from your thunderbird SENT file.
 It will store them into a CSV file which you can easily import into Thunderbird again.
 
-All you need to do is to copy your SENT file (this is the database file of your Thunderbrid email profile which contains the sent messages) next to this script and run this script. The script will look for a file named "SENT". It will be parsed and a CSV file will be generated.
+All you need to do is to copy your SENT file (this is the database file of your Thunderbird email profile which contains the sent messages) next to this script and run this script. The script will look for a file named "SENT". The file will be parsed and a CSV file will be generated. Give this mini-project a star if it helped you :-)
